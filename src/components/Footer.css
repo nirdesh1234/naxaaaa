@@ -1,0 +1,8 @@
+footer{
+    max-width: 1000px;
+    margin: auto;
+    text-align: center;
+    padding: 20px;
+    border-top: 1px solid red;
+  }
+  /* The footer element has a maximum width of 1000 pixels and is centered with auto margins. Its text is aligned to the center and it has 20 pixels of padding. Additionally, there is a red border at the top of the footer. */
